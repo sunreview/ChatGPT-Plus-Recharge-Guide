@@ -1,6 +1,8 @@
 **🌐 Language / 语言:** **简体中文** | [English](./README.en.md) | [Русский](./README.ru.md)
 
-# 🚀 2026年国内如何充值 / 订阅 ChatGPT Plus 会员？保姆级视频图文教程（新手可用）
+# 🚀 ChatGPT 代充 / ChatGPT 充值 / ChatGPT 订阅保姆级教程（2026 最新）｜ChatGPT Plus / Pro / Codex 代充，1 分钟到账，附 Claude 代充
+
+**2026 年国内如何充值 / 订阅 ChatGPT Plus 会员？GPT Plus 代充、OpenAI 订阅视频图文教程（新手可用）**
 
 > 面向国内 / 中文用户的 **ChatGPT Plus 充值教程**：无需国际信用卡，用**卡密自助充值**给自己的 ChatGPT 账号**升级 Plus 订阅**。本文整理了从购买卡密、获取账号 Token、提交充值到确认 Plus 状态的完整 **图文 + 视频** 流程，新手可对照操作。
 >
