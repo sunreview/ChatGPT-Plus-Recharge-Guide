@@ -1,6 +1,8 @@
 **🌐 Language / 语言:** [简体中文](./README.md) | **English** | [Русский](./README.ru.md)
 
-# 🚀 How to Pay for / Subscribe to ChatGPT Plus in 2026 (Step-by-Step Video & Picture Guide for Beginners)
+# 🚀 ChatGPT Plus / Pro Top-Up & Subscription Guide (2026) — Pay for ChatGPT Without an International Card, Activated in 1 Minute (Claude Top-Up Too)
+
+**How to pay for / subscribe to ChatGPT Plus in 2026 — step-by-step video & picture guide for beginners**
 
 > A **ChatGPT Plus top-up guide** for users without an international credit card: use a **redeem code (card key) + self-service top-up** to **upgrade your own ChatGPT account to a Plus subscription**. This article walks through the full **picture + video** flow — buying a code, getting your account Token, submitting the top-up, and confirming Plus status.
 >
