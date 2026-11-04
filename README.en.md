@@ -37,49 +37,11 @@ Watch the full flow once (about 2 minutes) to get the big picture, then follow t
 
 ---
 
-## 1. 🌍 Intro: In 2026, why do so many users still need ChatGPT Plus?
+## 1. 🧰 What do you need to top up ChatGPT Plus?
 
-### Why do users without an international card get stuck paying for ChatGPT Plus?
-
-For many users, the real hassle isn't "knowing how to use ChatGPT" — it's **how to complete the Plus subscription**.
-
-Common problems include:
-
-- No suitable international payment method;
-
-- Unfamiliar with overseas credit card billing;
-
-- App Store / Google Play account region mismatch;
-
-- Previously you had to buy a code on one store and then top up on a different site — more steps, more room for mistakes.
-
-  The flow below uses the **OKSub all-in-one top-up site**: choosing a plan, paying and topping up all happen on one site, and after payment you go straight to the order page to top up yourself. Using a desktop browser is recommended throughout.
-
----
-
-## 2. 👥 Who is this ChatGPT Plus top-up method for?
-
-This guide is a good fit for the following users:
-
-### ✅ You already have your own ChatGPT account
-
-You don't need to buy a "pre-made account" — you upgrade your own account to Plus directly, and your chat history and everyday use stay in your own account.
-
-### ✅ You don't have a convenient international credit card
-
-If you can't complete a card payment on the official ChatGPT page, you can pay with WeChat Pay or USDT instead.
-
-### ✅ It's your first time and you want a guide to follow
-
-The whole process can be summed up as:
+The whole top-up process can be summed up as:
 
 **Choose plan → Enter email → Pay with WeChat / USDT → Copy session account info → Paste & pre-check → Confirm top-up → Refresh ChatGPT to see Plus**
-
-Don't worry if you're unfamiliar with it — just follow the screenshots below step by step.
-
----
-
-## 3. 🧰 What do you need to top up ChatGPT Plus?
 
 Before you start, it's best to have the following ready.
 
@@ -105,7 +67,7 @@ WeChat scan-to-pay is recommended; USDT-BEP20 (BSC chain) and USDT-Polygon (low 
 
 ---
 
-## 4. 🖼️ ChatGPT Plus Top-Up Picture Steps
+## 2. 🖼️ ChatGPT Plus Top-Up Picture Steps
 
 Now for the actual top-up. After watching the video above, if you want to check each detail, expand the full picture steps below and follow along.
 
@@ -286,7 +248,7 @@ If nothing changes right after refreshing, you can:
 
 ---
 
-## 5. ❓ ChatGPT Plus Top-Up FAQ
+## 3. ❓ ChatGPT Plus Top-Up FAQ
 
 ### Q1: How do I pay for ChatGPT without an international card? Which payment methods are supported?
 
@@ -364,7 +326,7 @@ After payment, the order page link is sent to the email you ordered with; you ca
 
 ---
 
-## 6. 💬 Contact Support
+## 4. 💬 Contact Support
 
 If you still run into problems with payment, the account pre-check or the top-up result after following the steps above, contact support for help — please include your **order number**.
 
