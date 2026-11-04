@@ -16,7 +16,10 @@
 
 先花 2 分钟看一遍完整流程，建立整体认知，再对照下面的图文步骤逐项操作会更顺。
 
-https://github.com/user-attachments/assets/ea075d1f-1427-4fd4-a753-fcd5699591ee
+
+https://github.com/user-attachments/assets/2383ffa2-da6d-4785-b267-9425b47caffb
+
+
 
 ## 🔗 快速入口
 
