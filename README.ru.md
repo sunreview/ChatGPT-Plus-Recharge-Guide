@@ -1,3 +1,5 @@
+[![OKSub: пополнение ChatGPT Plus / Pro 5x / Pro 10x и Claude Pro / Max, оплата WeChat / USDT, счета, гарантия на подписку 30 дней](./images/oksub-banner.png)](https://oksub.net/)
+
 **🌐 Language / 语言:** [简体中文](./README.md) | [English](./README.en.md) | **Русский**
 
 # 🚀 Оплата и подписка ChatGPT Plus / Pro без зарубежной карты (2026) — активация за 1 минуту, также пополнение Claude
