@@ -70,10 +70,7 @@ https://github.com/user-attachments/assets/2383ffa2-da6d-4785-b267-9425b47caffb
 
 ## 2. 🖼️ ChatGPT Plus 充值图文步骤
 
-下面进入正式充值流程。看完上方视频后，如需逐项核对细节，展开下面的完整图文步骤对照操作即可。
-
-<details>
-<summary>📖 点击展开完整图文步骤（共 12 步）</summary>
+下面进入正式充值流程。看完上方视频后，对照下面的图文步骤逐项操作即可。
 
 ### 第 1 步：打开 OKSub，选择 ChatGPT Plus 套餐 🚪
 
@@ -245,8 +242,6 @@ session 页面打开后：
 
    到这里，整个 ChatGPT Plus 充值流程就完成了。🎊
 
-</details>
-
 ---
 
 ## 3. ❓ ChatGPT Plus 充值常见问题 FAQ
@@ -357,6 +352,6 @@ ChatGPT Plus 需要账号当前为 **Free** 状态（没有生效中的订阅）
 
 ### 🚀 相关入口
 
-- OKSub 一体化充值网站：https://oksub.net/
+- [OKSub 一体化充值网站](https://oksub.net/)
 
   如果这篇教程对你有帮助，可以 **Star ⭐ / 收藏**，以后续费时直接回来查看。
