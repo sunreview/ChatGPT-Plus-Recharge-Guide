@@ -25,7 +25,7 @@ Watch the full flow once (about 2 minutes) to get the big picture, then follow t
 | Item | Details |
 | --- | --- |
 | Who it's for | Users who already have their own ChatGPT account but no international credit card |
-| Price | ChatGPT Plus **¥139 / month** (30 days, equivalent to the official $20/month); Pro 5x ¥680 and Pro 10x ¥1200 also available |
+| Price | ChatGPT Plus **¥135 / month** (30 days, equivalent to the official $20/month); Pro 5x ¥680 and Pro 10x ¥1200 also available |
 | Payment | **WeChat Pay** (recommended, scan to pay), **USDT-BEP20**, **USDT-Polygon** |
 | How it works | After payment, paste your session account info on the order page, pre-check, then top up yourself — usually done in about 1 minute |
 | Account requirement | Plus requires the account to currently be **Free** (no active subscription); Pro 5x can be applied on top of an existing plan |
@@ -78,7 +78,7 @@ Open:
 
 👉 [https://oksub.net/](https://oksub.net/)
 
-Under "ChatGPT 套餐" (ChatGPT plans), find **ChatGPT Plus (¥139 / month · 30 days)** and click **"立即充值"** (Top up now).
+Under "ChatGPT 套餐" (ChatGPT plans), find **ChatGPT Plus (¥135 / month · 30 days)** and click **"立即充值"** (Top up now).
 
 You can also open the order page directly: [https://oksub.net/checkout/chatgpt-plus](https://oksub.net/checkout/chatgpt-plus)
 
@@ -258,7 +258,7 @@ No international credit card needed: choose the ChatGPT Plus plan on [oksub.net]
 
 | Plan | Price (30 days) | Official equivalent | Best for |
 | --- | --- | --- | --- |
-| ChatGPT Plus | ¥139 | $20/month | Everyday chat, writing, image generation, light coding |
+| ChatGPT Plus | ¥135 | $20/month | Everyday chat, writing, image generation, light coding |
 | ChatGPT Pro 5x | ¥680 | $100/month | Heavy users who need more Codex and other usage |
 | ChatGPT Pro 10x | ¥1200 | $200/month | Professionals, highest usage tier |
 

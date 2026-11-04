@@ -26,7 +26,7 @@ https://github.com/user-attachments/assets/2383ffa2-da6d-4785-b267-9425b47caffb
 | 项目 | 说明 |
 | --- | --- |
 | 适用人群 | 已有自己的 ChatGPT 账号、没有国际信用卡的国内 / 中文用户 |
-| 价格 | ChatGPT Plus **¥139 / 月**（30 天，对应官方 $20/月）；另有 Pro 5x ¥680、Pro 10x ¥1200 |
+| 价格 | ChatGPT Plus **¥135 / 月**（30 天，对应官方 $20/月）；另有 Pro 5x ¥680、Pro 10x ¥1200 |
 | 付款方式 | **微信支付**（推荐，扫码即付）、**USDT-BEP20**、**USDT-Polygon** |
 | 充值方式 | 付款后在订单页粘贴 session 账号信息，预检核对后自助充值，通常 1 分钟左右到账 |
 | 账号前提 | Plus 需要账号当前为 **Free**（没有生效中的订阅）；Pro 5x 支持覆盖充值 |
@@ -79,7 +79,7 @@ https://github.com/user-attachments/assets/2383ffa2-da6d-4785-b267-9425b47caffb
 
 👉 [https://oksub.net/](https://oksub.net/)
 
-在「ChatGPT 套餐」里找到 **ChatGPT Plus（¥139 / 月 · 30 天）**，点击 **「立即充值」**。
+在「ChatGPT 套餐」里找到 **ChatGPT Plus（¥135 / 月 · 30 天）**，点击 **「立即充值」**。
 
 也可以直接打开下单页：[https://oksub.net/checkout/chatgpt-plus](https://oksub.net/checkout/chatgpt-plus)
 
@@ -259,7 +259,7 @@ session 页面打开后：
 
 | 套餐 | 价格（30 天） | 对应官方 | 适合 |
 | --- | --- | --- | --- |
-| ChatGPT Plus | ¥139 | $20/月 | 日常对话、写作、生图、轻度编程 |
+| ChatGPT Plus | ¥135 | $20/月 | 日常对话、写作、生图、轻度编程 |
 | ChatGPT Pro 5x | ¥680 | $100/月 | 重度用户，Codex 等用量更大 |
 | ChatGPT Pro 10x | ¥1200 | $200/月 | 专业用户，最高用量档 |
 
