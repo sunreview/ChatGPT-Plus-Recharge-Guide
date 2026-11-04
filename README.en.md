@@ -20,13 +20,6 @@ Watch the full flow once (about 2 minutes) to get the big picture, then follow t
 
 > ▶️ Click the cover above to play the video. You can also watch it on the [OKSub home page](https://oksub.net/) or [download the video file](./plus-tutorial-v2.mp4). The email and account shown in the video are demo data.
 
-## 🔗 Quick Links
-
-| Purpose                                          | URL                                     |
-| ------------------------------------------------ | --------------------------------------- |
-| 🏠 OKSub all-in-one site (choose plan + pay + top up) | https://oksub.net/                      |
-| 🔑 Get your account info (session)                 | https://chatgpt.com/api/auth/session    |
-
 ## 📋 Key Facts at a Glance
 
 | Item | Details |
@@ -36,8 +29,7 @@ Watch the full flow once (about 2 minutes) to get the big picture, then follow t
 | Payment | **WeChat Pay** (recommended, scan to pay), **USDT-BEP20**, **USDT-Polygon** |
 | How it works | After payment, paste your session account info on the order page, pre-check, then top up yourself — usually done in minutes |
 | Account requirement | Plus requires the account to currently be **Free** (no active subscription); Pro 5x can be applied on top of an existing plan |
-| Password needed? | No — you only paste the session page content on the order page |
-| Chat history | Fully kept (it's your own account being upgraded) |
+| Password needed? | No — you only paste the session page content on the order page; **it's your own account being upgraded, so your chat history is fully kept** |
 | Warranty | 30-day subscription warranty; if Plus drops mid-way, contact support |
 | Invoice | Electronic invoice available (choose "Need invoice" when ordering, +¥10 per order) |
 | Codex? | Yes |
