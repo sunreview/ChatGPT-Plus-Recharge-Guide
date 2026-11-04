@@ -2,7 +2,7 @@
 
 **🌐 Language / 语言:** [简体中文](./README.md) | **English** | [Русский](./README.ru.md)
 
-# 🚀 ChatGPT Plus / Pro Top-Up & Subscription Guide (2026) — Pay for ChatGPT Without an International Card, Activated in 1 Minute (Claude Top-Up Too)
+# 🚀 ChatGPT Plus / Pro Top-Up & Subscription Guide (2026) — Pay for ChatGPT Without an International Card, Activated in Minutes (Claude Top-Up Too)
 
 **How to pay for / subscribe to ChatGPT Plus in 2026 — step-by-step video & picture guide for beginners**
 
@@ -12,7 +12,7 @@
 
 ## 📌 One-Sentence Answer: How do I pay for ChatGPT Plus without an international card?
 
-No international credit card needed. Open **[oksub.net](https://oksub.net/)**, choose the ChatGPT Plus plan, enter your email and **pay with WeChat Pay or USDT**. After payment you are taken to your order page automatically. In the browser where you are logged in to ChatGPT, open `chatgpt.com/api/auth/session`, select and copy everything on that page, paste it back into the order page, **pre-check** that the email and current plan are right, then **confirm the top-up**. Usually within about 1 minute, refresh ChatGPT and your account goes from **Free to Plus**. The whole process upgrades your own account (not a shared or pooled account), your chat history is fully kept, and the subscription carries a 30-day warranty.
+No international credit card needed. Open **[oksub.net](https://oksub.net/)**, choose the ChatGPT Plus plan, enter your email and **pay with WeChat Pay or USDT**. After payment you are taken to your order page automatically. In the browser where you are logged in to ChatGPT, open `chatgpt.com/api/auth/session`, select and copy everything on that page, paste it back into the order page, **pre-check** that the email and current plan are right, then **confirm the top-up**. Usually within a few minutes, refresh ChatGPT and your account goes from **Free to Plus**. The whole process upgrades your own account (not a shared or pooled account), your chat history is fully kept, and the subscription carries a 30-day warranty.
 
 ## 🎬 Video Tutorial (~2-minute full walkthrough with voice-over, in Chinese)
 
@@ -29,7 +29,7 @@ Watch the full flow once (about 2 minutes) to get the big picture, then follow t
 | Who it's for | Users who already have their own ChatGPT account but no international credit card |
 | Price | ChatGPT Plus **¥135 / month** (30 days, equivalent to the official $20/month); Pro 5x ¥680 and Pro 10x ¥1200 also available |
 | Payment | **WeChat Pay** (recommended, scan to pay), **USDT-BEP20**, **USDT-Polygon** |
-| How it works | After payment, paste your session account info on the order page, pre-check, then top up yourself — usually done in about 1 minute |
+| How it works | After payment, paste your session account info on the order page, pre-check, then top up yourself — usually done in a few minutes |
 | Account requirement | Plus requires the account to currently be **Free** (no active subscription); Pro 5x can be applied on top of an existing plan |
 | Password needed? | No — you only paste the session page content on the order page; **it's your own account being upgraded, so your chat history is fully kept** |
 | Warranty | 30-day subscription warranty; if Plus drops mid-way, contact support |
@@ -250,11 +250,11 @@ That's it — the whole ChatGPT Plus top-up flow is complete. 🎊
 
 ### Q1: How do I pay for ChatGPT without an international card? Which payment methods are supported?
 
-**WeChat Pay** and **USDT (BEP20 / Polygon)** are supported — no overseas credit card, PayPal or virtual card needed. After payment you go straight to the order page, paste your account info and top up yourself, usually within about 1 minute.
+**WeChat Pay** and **USDT (BEP20 / Polygon)** are supported — no overseas credit card, PayPal or virtual card needed. After payment you go straight to the order page, paste your account info and top up yourself, usually within a few minutes.
 
 ### Q2: How do I activate ChatGPT Plus?
 
-No international credit card needed: choose the ChatGPT Plus plan on [oksub.net](https://oksub.net/), pay with WeChat Pay or USDT, then paste your session account info on the order page, pre-check and confirm the top-up — Plus is usually active within about 1 minute. See "ChatGPT Plus Top-Up Picture Steps" above for details.
+No international credit card needed: choose the ChatGPT Plus plan on [oksub.net](https://oksub.net/), pay with WeChat Pay or USDT, then paste your session account info on the order page, pre-check and confirm the top-up — Plus is usually active within a few minutes. See "ChatGPT Plus Top-Up Picture Steps" above for details.
 
 ### Q3: How much is ChatGPT Plus per month? Plus or Pro?
 
