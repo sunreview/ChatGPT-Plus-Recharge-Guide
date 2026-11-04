@@ -2,7 +2,7 @@
 
 **🌐 Language / 语言:** **简体中文** | [English](./README.en.md) | [Русский](./README.ru.md)
 
-# 🚀 ChatGPT 代充 / ChatGPT 充值 / ChatGPT 订阅保姆级教程（2026 最新）｜ChatGPT Plus / Pro / Codex 代充，1 分钟到账，附 Claude 代充
+# 🚀 ChatGPT 代充 / ChatGPT 充值 / ChatGPT 订阅保姆级教程（2026 最新）｜ChatGPT Plus / Pro / Codex 代充，几分钟到账，附 Claude 代充
 
 **2026 年国内如何充值 / 订阅 ChatGPT Plus 会员？GPT Plus 代充、OpenAI 订阅视频图文教程（新手可用）**
 
@@ -12,7 +12,7 @@
 
 ## 📌 一句话回答：国内怎么充值 ChatGPT Plus？
 
-不需要国际信用卡。打开 **[oksub.net](https://oksub.net/)** 选择 ChatGPT Plus 套餐，填写邮箱后用**微信或 USDT 付款**；付款成功会自动跳到订单页，在已登录 ChatGPT 的浏览器打开 `chatgpt.com/api/auth/session`，全选复制页面内容粘贴回订单页，**预检核对**邮箱和当前套餐后**确认充值**。通常 1 分钟左右即可完成，刷新 ChatGPT，账号就会从 **Free 升级为 Plus**。整个过程是给你自己的账号升级订阅（不是共享号、不是合租），聊天记录全部保留，订阅质保 30 天。
+不需要国际信用卡。打开 **[oksub.net](https://oksub.net/)** 选择 ChatGPT Plus 套餐，填写邮箱后用**微信或 USDT 付款**；付款成功会自动跳到订单页，在已登录 ChatGPT 的浏览器打开 `chatgpt.com/api/auth/session`，全选复制页面内容粘贴回订单页，**预检核对**邮箱和当前套餐后**确认充值**。通常几分钟即可完成，刷新 ChatGPT，账号就会从 **Free 升级为 Plus**。整个过程是给你自己的账号升级订阅（不是共享号、不是合租），聊天记录全部保留，订阅质保 30 天。
 
 ## 🎬 视频教程（约 2 分钟全流程演示，带语音讲解）
 
@@ -30,7 +30,7 @@ https://github.com/user-attachments/assets/2383ffa2-da6d-4785-b267-9425b47caffb
 | 适用人群 | 已有自己的 ChatGPT 账号、没有国际信用卡的国内 / 中文用户 |
 | 价格 | ChatGPT Plus **¥135 / 月**（30 天，对应官方 $20/月）；另有 Pro 5x ¥680、Pro 10x ¥1200 |
 | 付款方式 | **微信支付**（推荐，扫码即付）、**USDT-BEP20**、**USDT-Polygon** |
-| 充值方式 | 付款后在订单页粘贴 session 账号信息，预检核对后自助充值，通常 1 分钟左右到账 |
+| 充值方式 | 付款后在订单页粘贴 session 账号信息，预检核对后自助充值，通常几分钟到账 |
 | 账号前提 | Plus 需要账号当前为 **Free**（没有生效中的订阅）；Pro 5x 支持覆盖充值 |
 | 是否需要提供密码 | 不需要，只需在订单页粘贴 session 页面内容；**升级的是你自己的账号，聊天记录全部保留** |
 | 质保 | 30 天订阅质保，中途掉订阅可联系客服处理 |
@@ -251,11 +251,11 @@ session 页面打开后：
 
 ### Q1：ChatGPT 在国内怎么充值？支持哪些付款方式？
 
-支持 **微信支付** 和 **USDT（BEP20 / Polygon）** 付款，无需海外信用卡、PayPal 或虚拟卡。付款后自动进入订单页，粘贴账号信息即可自助充值，通常 1 分钟左右完成。
+支持 **微信支付** 和 **USDT（BEP20 / Polygon）** 付款，无需海外信用卡、PayPal 或虚拟卡。付款后自动进入订单页，粘贴账号信息即可自助充值，通常几分钟完成。
 
 ### Q2：ChatGPT Plus 怎么开通？
 
-国内开通 ChatGPT Plus 不需要国际信用卡：在 [oksub.net](https://oksub.net/) 选择 ChatGPT Plus 套餐，用微信或 USDT 付款，然后在订单页粘贴 session 账号信息、预检并确认充值，通常 1 分钟左右即可开通。详细操作见上方「ChatGPT Plus 充值图文步骤」。
+国内开通 ChatGPT Plus 不需要国际信用卡：在 [oksub.net](https://oksub.net/) 选择 ChatGPT Plus 套餐，用微信或 USDT 付款，然后在订单页粘贴 session 账号信息、预检并确认充值，通常几分钟即可开通。详细操作见上方「ChatGPT Plus 充值图文步骤」。
 
 ### Q3：ChatGPT Plus 多少钱一个月？Plus 和 Pro 怎么选？
 
