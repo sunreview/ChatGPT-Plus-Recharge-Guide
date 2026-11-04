@@ -69,10 +69,7 @@ WeChat scan-to-pay is recommended; USDT-BEP20 (BSC chain) and USDT-Polygon (low 
 
 ## 2. 🖼️ ChatGPT Plus Top-Up Picture Steps
 
-Now for the actual top-up. After watching the video above, if you want to check each detail, expand the full picture steps below and follow along.
-
-<details>
-<summary>📖 Click to expand the full picture steps (12 steps)</summary>
+Now for the actual top-up. After watching the video above, follow the picture steps below one by one.
 
 ### Step 1: Open OKSub and choose the ChatGPT Plus plan 🚪
 
@@ -244,8 +241,6 @@ If nothing changes right after refreshing, you can:
 
    That's it — the whole ChatGPT Plus top-up flow is complete. 🎊
 
-</details>
-
 ---
 
 ## 3. ❓ ChatGPT Plus Top-Up FAQ
@@ -356,6 +351,6 @@ The first time, don't rush — pay special attention to **the account email and 
 
 ### 🚀 Related Links
 
-- OKSub all-in-one top-up site: https://oksub.net/
+- [OKSub all-in-one top-up site](https://oksub.net/)
 
   If this guide helped you, feel free to **Star ⭐ / bookmark** it so you can come back next time you renew.
