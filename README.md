@@ -1,3 +1,5 @@
+[![OKSub：ChatGPT Plus / Pro 5x / Pro 10x 代充、Claude Pro / Max 代充，微信 / USDT 付款，可开发票，质保订阅 30 天](./images/oksub-banner.png)](https://oksub.net/)
+
 **🌐 Language / 语言:** **简体中文** | [English](./README.en.md) | [Русский](./README.ru.md)
 
 # 🚀 ChatGPT 代充 / ChatGPT 充值 / ChatGPT 订阅保姆级教程（2026 最新）｜ChatGPT Plus / Pro / Codex 代充，1 分钟到账，附 Claude 代充
