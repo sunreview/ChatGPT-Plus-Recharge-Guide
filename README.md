@@ -16,7 +16,7 @@
 
 ## 🎬 视频教程（约 2 分钟全流程演示，带语音讲解）
 
-先花 2 分钟看一遍完整流程，建立整体认知，再对照下面的图文步骤逐项操作会更顺。
+约 2 分钟看完完整流程，跟着视频操作即可；需要逐步核对时，可以展开下面折叠的图文步骤。
 
 
 https://github.com/user-attachments/assets/2383ffa2-da6d-4785-b267-9425b47caffb
@@ -73,7 +73,10 @@ https://github.com/user-attachments/assets/2383ffa2-da6d-4785-b267-9425b47caffb
 
 ## 2. 🖼️ ChatGPT Plus 充值图文步骤
 
-下面进入正式充值流程。看完上方视频后，对照下面的图文步骤逐项操作即可。
+上方视频已经演示了完整流程，图文步骤默认折叠，需要逐步核对时点开查看。
+
+<details>
+<summary><b>📖 点击展开 12 步图文教程</b></summary>
 
 ### 第 1 步：打开 OKSub，选择 ChatGPT Plus 套餐 🚪
 
@@ -245,6 +248,8 @@ session 页面打开后：
 
 到这里，整个 ChatGPT Plus 充值流程就完成了。🎊
 
+</details>
+
 ---
 
 ## 3. ❓ ChatGPT Plus 充值常见问题 FAQ
@@ -255,7 +260,7 @@ session 页面打开后：
 
 ### Q2：ChatGPT Plus 怎么开通？
 
-国内开通 ChatGPT Plus 不需要国际信用卡：在 [oksub.net](https://oksub.net/) 选择 ChatGPT Plus 套餐，用微信或 USDT 付款，然后在订单页粘贴 session 账号信息、预检并确认充值，通常几分钟即可开通。详细操作见上方「ChatGPT Plus 充值图文步骤」。
+国内开通 ChatGPT Plus 不需要国际信用卡：在 [oksub.net](https://oksub.net/) 选择 ChatGPT Plus 套餐，用微信或 USDT 付款，然后在订单页粘贴 session 账号信息、预检并确认充值，通常几分钟即可开通。详细操作见上方视频，或展开「ChatGPT Plus 充值图文步骤」。
 
 ### Q3：ChatGPT Plus 多少钱一个月？Plus 和 Pro 怎么选？
 
