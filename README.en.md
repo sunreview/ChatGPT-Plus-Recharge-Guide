@@ -1,4 +1,4 @@
-[![OKSub: ChatGPT Plus / Pro 5x / Pro 10x and Claude Pro / Max top-up, pay with WeChat / USDT, invoices available, 30-day subscription warranty](./images/oksub-banner.png)](https://oksub.net/)
+[![OKSub: ChatGPT Plus / Pro 100 / Pro 200 top-up and ready-made Claude Pro / Max accounts, pay with WeChat / USDT, invoices available, 30-day subscription warranty](./images/oksub-banner.png)](https://oksub.net/)
 
 **🌐 Language / 语言:** [简体中文](./README.md) | **English** | [Русский](./README.ru.md)
 
@@ -27,15 +27,15 @@ Watch the full flow once (about 2 minutes) to get the big picture, then follow t
 | Item | Details |
 | --- | --- |
 | Who it's for | Users who already have their own ChatGPT account but no international credit card |
-| Price | ChatGPT Plus **¥135 / month** (30 days, equivalent to the official $20/month); Pro 5x ¥680 and Pro 10x ¥1200 also available |
+| Price | ChatGPT Plus **¥135 / month** (30 days, equivalent to the official $20/month); Pro 100 ¥699 and Pro 200 ¥1200 also available |
 | Payment | **WeChat Pay** (recommended, scan to pay), **USDT-BEP20**, **USDT-Polygon** |
 | How it works | After payment, paste your session account info on the order page, pre-check, then top up yourself — usually done in a few minutes |
-| Account requirement | Plus requires the account to currently be **Free** (no active subscription); Pro 5x can be applied on top of an existing plan |
+| Account requirement | Plus requires the account to currently be **Free** (no active subscription); Pro 100 can be applied on top of an existing plan |
 | Password needed? | No — you only paste the session page content on the order page; **it's your own account being upgraded, so your chat history is fully kept** |
 | Warranty | 30-day subscription warranty; if Plus drops mid-way, contact support |
 | Invoice | Electronic invoice available (choose "Need invoice" when ordering, +¥10 per order) |
 | Codex? | Yes |
-| Other services | [Claude Pro / Max top-up](https://github.com/sunreview/Claude-Pro-Recharge-Guide) |
+| Other services | [Ready-made Claude Pro / Max accounts (no KYC)](https://github.com/sunreview/Claude-Pro-Subscription-Guide) |
 | Support | WeChat `gracereview618` / Telegram `@aispace_kefu` |
 
 ---
@@ -261,10 +261,10 @@ No international credit card needed: choose the ChatGPT Plus plan on [oksub.net]
 | Plan | Price (30 days) | Official equivalent | Best for |
 | --- | --- | --- | --- |
 | ChatGPT Plus | ¥135 | $20/month | Everyday chat, writing, image generation, light coding |
-| ChatGPT Pro 5x | ¥680 | $100/month | Heavy users who need more Codex and other usage |
-| ChatGPT Pro 10x | ¥1200 | $200/month | Professionals, highest usage tier |
+| ChatGPT Pro 100 | ¥699 | $100/month | Heavy users who need more Codex and other usage |
+| ChatGPT Pro 200 | ¥1200 | $200/month | Professionals, highest usage tier |
 
-Plus is enough for most people; consider Pro if you keep hitting usage limits or use Codex heavily. For Pro 10x, support verifies your account and activates it manually after payment.
+Plus is enough for most people; consider Pro if you keep hitting usage limits or use Codex heavily. For Pro 200, support verifies your account and activates it manually after payment.
 
 ### Q4: Do I have to give my ChatGPT password to anyone?
 
@@ -272,7 +272,7 @@ No. No password is needed at any point — you only paste the session page conte
 
 ### Q5: What conditions must my account meet before topping up?
 
-ChatGPT Plus requires the account to currently be **Free** (no active subscription) and cannot be applied over an existing subscription; Pro 5x can be applied on top, so accounts already on Plus / Pro can use it. The account must be personal — if you joined a Team workspace, switch back to your personal account before copying the session.
+ChatGPT Plus requires the account to currently be **Free** (no active subscription) and cannot be applied over an existing subscription; Pro 100 can be applied on top, so accounts already on Plus / Pro can use it. The account must be personal — if you joined a Team workspace, switch back to your personal account before copying the session.
 
 ### Q6: After pasting, it says "incomplete copy" or "account not recognized". What now?
 
@@ -336,9 +336,9 @@ Each order is a 1-month subscription. When it expires, simply order again to ren
 
 After payment, the order page link is sent to the email you ordered with; you can also look it up on the [Order lookup](https://oksub.net/orders) page by order number or email.
 
-### Q15: Can I top up Claude too?
+### Q15: Can I get Claude too?
 
-Yes. OKSub also offers **Claude Pro / Max top-up** — see the full guide: [Claude Pro / Max top-up guide](https://github.com/sunreview/Claude-Pro-Recharge-Guide).
+Yes. Claude top-up is paused for now; instead we offer **ready-made Claude Pro / Max accounts with no KYC** (you receive a new account, not a top-up of yours). Details: [Claude Pro / Max account guide](https://github.com/sunreview/Claude-Pro-Subscription-Guide).
 
 ---
 
@@ -367,6 +367,6 @@ The first time, don't rush — pay special attention to **the account email and 
 ### 🚀 Related Links
 
 - [OKSub all-in-one top-up site](https://oksub.net/)
-- [Claude Pro / Max top-up guide](https://github.com/sunreview/Claude-Pro-Recharge-Guide)
+- [Claude Pro / Max account guide](https://github.com/sunreview/Claude-Pro-Subscription-Guide)
 
 If this guide helped you, feel free to **Star ⭐ / bookmark** it so you can come back next time you renew.

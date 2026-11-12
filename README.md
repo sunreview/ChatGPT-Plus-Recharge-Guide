@@ -1,4 +1,4 @@
-[![OKSub：ChatGPT Plus / Pro 5x / Pro 10x 代充、Claude Pro / Max 代充，微信 / USDT 付款，可开发票，质保订阅 30 天](./images/oksub-banner.png)](https://oksub.net/)
+[![OKSub：ChatGPT Plus / Pro 100 / Pro 200 代充、Claude Pro / Max 成品号，微信 / USDT 付款，可开发票，质保订阅 30 天](./images/oksub-banner.png)](https://oksub.net/)
 
 **🌐 Language / 语言:** **简体中文** | [English](./README.en.md) | [Русский](./README.ru.md)
 
@@ -28,15 +28,15 @@ https://github.com/user-attachments/assets/2383ffa2-da6d-4785-b267-9425b47caffb
 | 项目 | 说明 |
 | --- | --- |
 | 适用人群 | 已有自己的 ChatGPT 账号、没有国际信用卡的国内 / 中文用户 |
-| 价格 | ChatGPT Plus **¥135 / 月**（30 天，对应官方 $20/月）；另有 Pro 5x ¥680、Pro 10x ¥1200 |
+| 价格 | ChatGPT Plus **¥135 / 月**（30 天，对应官方 $20/月）；另有 Pro 100 ¥699、Pro 200 ¥1200 |
 | 付款方式 | **微信支付**（推荐，扫码即付）、**USDT-BEP20**、**USDT-Polygon** |
 | 充值方式 | 付款后在订单页粘贴 session 账号信息，预检核对后自助充值，通常几分钟到账 |
-| 账号前提 | Plus 需要账号当前为 **Free**（没有生效中的订阅）；Pro 5x 支持覆盖充值 |
+| 账号前提 | Plus 需要账号当前为 **Free**（没有生效中的订阅）；Pro 100 支持覆盖充值 |
 | 是否需要提供密码 | 不需要，只需在订单页粘贴 session 页面内容；**升级的是你自己的账号，聊天记录全部保留** |
 | 质保 | 30 天订阅质保，中途掉订阅可联系客服处理 |
 | 发票 | 可开电子普通发票（下单时选「需要发票」，每单加收 ¥10） |
 | 能否使用 Codex | 可以 |
-| 其他服务 | [Claude Pro / Max 代充](https://github.com/sunreview/Claude-Pro-Recharge-Guide) |
+| 其他服务 | [Claude Pro / Max 成品号（免 KYC）](https://github.com/sunreview/Claude-Pro-Subscription-Guide) |
 | 客服 | 微信 `gracereview618` / Telegram `@aispace_kefu` |
 
 ---
@@ -267,10 +267,10 @@ session 页面打开后：
 | 套餐 | 价格（30 天） | 对应官方 | 适合 |
 | --- | --- | --- | --- |
 | ChatGPT Plus | ¥135 | $20/月 | 日常对话、写作、生图、轻度编程 |
-| ChatGPT Pro 5x | ¥680 | $100/月 | 重度用户，Codex 等用量更大 |
-| ChatGPT Pro 10x | ¥1200 | $200/月 | 专业用户，最高用量档 |
+| ChatGPT Pro 100 | ¥699 | $100/月 | 重度用户，Codex 等用量更大 |
+| ChatGPT Pro 200 | ¥1200 | $200/月 | 专业用户，最高用量档 |
 
-大多数人选 Plus 就够用；经常撞到用量上限、重度使用 Codex 再考虑 Pro。Pro 10x 付款后由客服人工核对账号并开通。
+大多数人选 Plus 就够用；经常撞到用量上限、重度使用 Codex 再考虑 Pro。Pro 200 付款后由客服人工核对账号并开通。
 
 ### Q4：充值需要把 ChatGPT 密码给别人吗？
 
@@ -278,7 +278,7 @@ session 页面打开后：
 
 ### Q5：充值前账号需要满足什么条件？
 
-ChatGPT Plus 需要账号当前为 **Free** 状态（没有生效中的订阅），不可覆盖已有订阅；Pro 5x 支持覆盖充值，已有 Plus / Pro 也可以充。账号须为个人版，如加入过 Team 空间，请先切回个人账号再复制 session。
+ChatGPT Plus 需要账号当前为 **Free** 状态（没有生效中的订阅），不可覆盖已有订阅；Pro 100 支持覆盖充值，已有 Plus / Pro 也可以充。账号须为个人版，如加入过 Team 空间，请先切回个人账号再复制 session。
 
 ### Q6：粘贴后提示「复制不完整」或「无法识别账号」怎么办？
 
@@ -342,9 +342,9 @@ ChatGPT Plus 需要账号当前为 **Free** 状态（没有生效中的订阅）
 
 付款成功后订单页链接会发到你的下单邮箱；也可以在 [订单查询](https://oksub.net/orders) 页面输入订单号或下单邮箱查询。
 
-### Q15：可以充值 Claude 吗？
+### Q15：可以买 Claude 吗？
 
-可以。OKSub 也支持 **Claude Pro / Max 代充**，完整教程见：[Claude Pro / Max 充值教程](https://github.com/sunreview/Claude-Pro-Recharge-Guide)。
+可以。Claude 代充目前暂停，现在提供 **免 KYC 的 Claude Pro / Max 成品号**（交付现成账号，不是给你的账号充值），详细说明见：[Claude Pro / Max 成品号指南](https://github.com/sunreview/Claude-Pro-Subscription-Guide)。
 
 ---
 
@@ -373,6 +373,6 @@ ChatGPT Plus 需要账号当前为 **Free** 状态（没有生效中的订阅）
 ### 🚀 相关入口
 
 - [OKSub 一体化充值网站](https://oksub.net/)
-- [Claude Pro / Max 代充教程](https://github.com/sunreview/Claude-Pro-Recharge-Guide)
+- [Claude Pro / Max 成品号指南](https://github.com/sunreview/Claude-Pro-Subscription-Guide)
 
 如果这篇教程对你有帮助，可以 **Star ⭐ / 收藏**，以后续费时直接回来查看。
