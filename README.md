@@ -37,7 +37,7 @@ https://github.com/user-attachments/assets/2383ffa2-da6d-4785-b267-9425b47caffb
 | 发票 | 可开电子普通发票（下单时选「需要发票」，每单加收 ¥10） |
 | 能否使用 Codex | 可以 |
 | 其他服务 | [Claude Pro / Max 成品号（免 KYC）](https://github.com/sunreview/Claude-Pro-Subscription-Guide) |
-| 客服 | 微信 `gracereview618` / Telegram `@aispace_kefu` |
+| 客服 | 微信 `gracereview716` / Telegram `@aispace_kefu` |
 
 ---
 
@@ -114,7 +114,7 @@ https://github.com/user-attachments/assets/2383ffa2-da6d-4785-b267-9425b47caffb
 
 需要发票可以在「发票」处选择 **「需要发票」**（每单加收 ¥10）。确认应付金额后点击 **「立即支付」**。
 
-> 💡 批量采购或其他付款方式，请联系客服：微信 `gracereview618` / Telegram `@aispace_kefu`。
+> 💡 批量采购或其他付款方式，请联系客服：微信 `gracereview716` / Telegram `@aispace_kefu`。
 
 ![步骤3：选择付款方式](./images/oksub/oksub-step-03.jpg)
 
@@ -328,7 +328,7 @@ ChatGPT Plus 需要账号当前为 **Free** 状态（没有生效中的订阅）
 
 ### Q11：质保怎么算？
 
-质保订阅 30 天。质保期内如果 Plus / Pro 订阅中途掉了，请及时联系客服（微信 `gracereview618` / Telegram `@aispace_kefu`）并附上订单号处理。如因使用不当导致封号，按 OpenAI 官方售后规则处理。
+质保订阅 30 天。质保期内如果 Plus / Pro 订阅中途掉了，请及时联系客服（微信 `gracereview716` / Telegram `@aispace_kefu`）并附上订单号处理。如因使用不当导致封号，按 OpenAI 官方售后规则处理。
 
 ### Q12：可以开发票吗？
 
@@ -354,7 +354,7 @@ ChatGPT Plus 需要账号当前为 **Free** 状态（没有生效中的订阅）
 
 ### 📱 微信客服
 
-**微信号：`gracereview618`**
+**微信号：`gracereview716`**
 
 ### ✈️ Telegram 客服
 
